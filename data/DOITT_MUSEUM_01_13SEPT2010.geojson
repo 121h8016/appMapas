@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "Bufalucas", "TEL": "(212) 352-3101", "URL": "http:\/\/www.paraisocom\/paraiso\/\/\/", "ADDRESS1": "Bufalucas", "ADDRES2": null, "": "tabasco", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -93.21418762207031,18.40771342460745  ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "Restaurante Bar Cafe Pepe", "TEL": "(800) 775-1617", "URL": "http:\/\/www.paraiso.com\/hoteles\/HOTEL BUENOS AIRES", "ADDRESS1": "HOTEL BUENOS AIRES", "ADDRES2": null, "CITY": "tabasco", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2080078125,  18.40616607602095] } }
+, 
+{ "type": "Feature", "id": 2, "properties": { "NAME": "Don Barnizado Paraiso", "TEL": "(212) 368-5900", "URL": "http:\/\/www.artsandletters.org\/", "ADDRESS1": "633 W. 155th St.", "ADDRESS2": null, "CITY": "New York", "ZIP": 10032.0 }, "geometry": { "type": "Point", "coordinates": [ -93.21976661682129, 18.388818532420842] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "NAME": "Fiesta Brava Plaza Cristal", "TEL": "(212) 265-1040", "URL": "http:\/\/www.folkartmuseum.org\/", "ADDRESS1": "45 West 53rd Street", "ADDRESS2": null, "CITY": "New York", "ZIP": 10019.0 }, "geometry": { "type": "Point", "coordinates": [ -93.20423126220703, 18.400953852159596 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "NAME": "Tacos Arabes La Batalla", "TEL": "(212) 363-3200", "URL": "http:\/\/www.ellisisland.org\/", "ADRESS1": "Ellis Island", "ADDRESS2": null, "CITY": "New York", "ZIP": 0.0 }, "geometry": { "type": "Point", "coordinates": [    -93.21169853210449,18.39378678678994 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "NAME": "Alimentos y Mariscos Paraiso", "TEL": "(212) 769-5100", "URL": "http:\/\/www.amnh.org\/", "ADRESS1": "Central Park West at 79th Street", "ADDRESS2": null, "CITY": "New York", "ZIP": 10024.0 }, "geometry": { "type": "Point", "coordinates": [-93.21146249771118,18.40022087052702 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "NAME": "Parrilladas Suiza", "TEL": "(212) 571-4470", "URL": "http:\/\/www.numismatics.org\/", "ADRESS1": "75 Varick St", "ADDRESS2": "11th Floor", "CITY": "New York", "ZIP": 10013.0 }, "geometry": { "type": "Point", "coordinates": [-93.21624755859374, 18.3955785810866 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "NAME": "El Chef de Sinaloa", "TEL": "(212) 249-8950", "URL": "http:\/\/as.americas-society.org\/", "ADRESS1": "680 Park Ave.", "ADDRESS2": null, "CITY": "New York", "ZIP": 10021.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2118272781372,18.392727990492368] } }
+
+
+]
+}

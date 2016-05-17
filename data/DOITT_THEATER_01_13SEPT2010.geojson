@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "HOTEL BRISAS DEL PARAISO", "TEL": "(212) 352-3101", "URL": "http:\/\/www.paraisocom\/paraiso\/\/\/", "ADDRESS1": "HOTEL BRISAS DEL PARAISO", "ADDRES2": null, "": "tabasco", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -93.21916580200, 18.397273642060387  ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "HOTEL BUENOS AIRES", "TEL": "(800) 775-1617", "URL": "http:\/\/www.paraiso.com\/hoteles\/HOTEL BUENOS AIRES", "ADDRESS1": "HOTEL BUENOS AIRES", "ADDRES2": null, "CITY": "tabasco", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -93.20832967758179,  18.399019588328308 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "NAME": "Hotel Sabina", "TEL": "(212) 753-5959", "URL": "http:\/\/www.59e59.org\/", "ADDRESS1": "Hotel Sabina", "ADDRES2": null, "CITY": "tabasco", "ZIP": 10022.0 }, "geometry": { "type": "Point", "coordinates": [  -93.21375846862793, 18.395619303467683 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "NAME": "Holiday Inn Express Paraiso Dos Bocas", "TEL": "(212) 279-4200", "URL": "http:\/\/www.theatrerow.org\/theacorn.htm", "ADDRESS1": "Holiday Inn Express Paraiso Dos Bocas", "ADDRES2": null, "CITY": "tabasco", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -93.20431709289551, 18.40869069023349 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "NAME": "Hotel City Express Paraiso Oficial", "TEL": "(212) 239-6200", "URL": "http:\/\/www.newyorkcitytheatre.com\/theaters\/alhirschfeldtheater\/theater.php", "ADDRESS1": "302 W 45th Street", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -93.19333076477051,   18.415531394265326 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "NAME": "Hotel Don Celes", "TEL": "(800) 432-7565", "URL": "http:\/\/www.shubertorganization.com\/theatres\/ambassador.asp", "ADDRESS1": "219 West 49th Street", "ADDRES2": null, "CITY": "New York", "ZIP": 10019.0 }, "geometry": { "type": "Point", "coordinates": [ -93.21279287338257, 18.401870074813544 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "NAME": "Hotel San Bartolo", "TEL": "(212) 719-9393", "URL": "http:\/\/www.newyorkcitytheatre.com\/theaters\/americanairlinestheater\/theater.php", "ADDRESS1": "227 W 42nd Street", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [   -93.20948839187622,  18.400770607043903 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "NAME": "Hotel Boulevard", "TEL": "(212) 531-5300", "URL": "http:\/\/www.apollotheater.org\/", "ADDRESS1": "253 West 125th Street", "ADDRES2": null, "CITY": "New York", "ZIP": 10027.0 }, "geometry": { "type": "Point", "coordinates": [ -93.21478843688965, 18.391750634289256] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "NAME": "Hotel mago II", "TEL": "(212) 595-0355", "URL": "http:\/\/www.nytheatre.com\/nytheatre\/arclight.htm", "ADDRESS1": "152 W 71st St", "ADDRES2": null, "CITY": "New York", "ZIP": 10023.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2182216644287,  18.410563767176544 ] } }
+
+]
+}
